@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.9468542c.css",
-    "main.js": "./static/js/main.bb94f679.js",
-    "static/js/453.d0ded385.chunk.js": "./static/js/453.d0ded385.chunk.js",
-    "static/media/Tahu White.png": "./static/media/Tahu White.311ae7a58dd68d8e3e87.png",
-    "index.html": "./index.html",
-    "main.9468542c.css.map": "./static/css/main.9468542c.css.map",
-    "main.bb94f679.js.map": "./static/js/main.bb94f679.js.map",
-    "453.d0ded385.chunk.js.map": "./static/js/453.d0ded385.chunk.js.map"
+    "main.css": "/tahuw12.github.io/TahuW/static/css/main.9468542c.css",
+    "main.js": "/tahuw12.github.io/TahuW/static/js/main.df50a46d.js",
+    "static/js/453.d0ded385.chunk.js": "/tahuw12.github.io/TahuW/static/js/453.d0ded385.chunk.js",
+    "static/media/Tahu White.png": "/tahuw12.github.io/TahuW/static/media/Tahu White.311ae7a58dd68d8e3e87.png",
+    "index.html": "/tahuw12.github.io/TahuW/index.html",
+    "main.9468542c.css.map": "/tahuw12.github.io/TahuW/static/css/main.9468542c.css.map",
+    "main.df50a46d.js.map": "/tahuw12.github.io/TahuW/static/js/main.df50a46d.js.map",
+    "453.d0ded385.chunk.js.map": "/tahuw12.github.io/TahuW/static/js/453.d0ded385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9468542c.css",
-    "static/js/main.bb94f679.js"
+    "static/js/main.df50a46d.js"
   ]
 }
