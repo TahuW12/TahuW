@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TahuW/static/css/main.9468542c.css",
-    "main.js": "/TahuW/static/js/main.5afb510a.js",
-    "static/js/453.d0ded385.chunk.js": "/TahuW/static/js/453.d0ded385.chunk.js",
-    "static/media/Tahu White.png": "/TahuW/static/media/Tahu White.311ae7a58dd68d8e3e87.png",
-    "index.html": "/TahuW/index.html",
-    "main.9468542c.css.map": "/TahuW/static/css/main.9468542c.css.map",
-    "main.5afb510a.js.map": "/TahuW/static/js/main.5afb510a.js.map",
-    "453.d0ded385.chunk.js.map": "/TahuW/static/js/453.d0ded385.chunk.js.map"
+    "main.css": "./static/css/main.9468542c.css",
+    "main.js": "./static/js/main.bb94f679.js",
+    "static/js/453.d0ded385.chunk.js": "./static/js/453.d0ded385.chunk.js",
+    "static/media/Tahu White.png": "./static/media/Tahu White.311ae7a58dd68d8e3e87.png",
+    "index.html": "./index.html",
+    "main.9468542c.css.map": "./static/css/main.9468542c.css.map",
+    "main.bb94f679.js.map": "./static/js/main.bb94f679.js.map",
+    "453.d0ded385.chunk.js.map": "./static/js/453.d0ded385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9468542c.css",
-    "static/js/main.5afb510a.js"
+    "static/js/main.bb94f679.js"
   ]
 }
